@@ -1,6 +1,6 @@
 using Intellenum;
 
-namespace Soenneker.Quark;
+namespace Soenneker.Quark.Enums;
 
 /// <summary>
 /// The html element types in enum form.
