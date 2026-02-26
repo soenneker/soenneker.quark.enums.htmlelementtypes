@@ -1,11 +1,11 @@
-using Intellenum;
+using Soenneker.Gen.EnumValues;
 
 namespace Soenneker.Quark.Enums;
 
 /// <summary>
 /// The html element types in enum form.
 /// </summary>
-[Intellenum<string>]
+[EnumValue<string>]
 public sealed partial class HtmlElementType
 {
     // Document metadata
