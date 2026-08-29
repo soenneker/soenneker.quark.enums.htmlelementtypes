@@ -3,11 +3,16 @@
 [![](https://img.shields.io/nuget/dt/soenneker.quark.enums.htmlelementtypes.svg?style=for-the-badge)](https://www.nuget.org/packages/soenneker.quark.enums.htmlelementtypes/)
 [![](https://img.shields.io/github/actions/workflow/status/soenneker/soenneker.quark.enums.htmlelementtypes/codeql.yml?label=CodeQL&style=for-the-badge)](https://github.com/soenneker/soenneker.quark.enums.htmlelementtypes/actions/workflows/codeql.yml)
 
-# ![](https://user-images.githubusercontent.com/4441470/224455560-91ed3ee7-f510-4041-a8d2-3fc093025112.png) Soenneker.Quark.Enums.HtmlElementTypes
-### The html element types in enum form.
+# Soenneker.Quark.Enums.HtmlElementTypes
 
-## Installation
+The html element types in enum form.
 
-```
+## Install
+
+```bash
 dotnet add package Soenneker.Quark.Enums.HtmlElementTypes
 ```
+
+## What you get
+
+- `HtmlElementType` — The html element types in enum form.
