@@ -3,7 +3,7 @@ using Soenneker.Gen.EnumValues;
 namespace Soenneker.Quark;
 
 /// <summary>
-/// The html element types in enum form.
+/// Represents a known HTML element name for dynamic element selection.
 /// </summary>
 [EnumValue<string>]
 public sealed partial class HtmlElementType
